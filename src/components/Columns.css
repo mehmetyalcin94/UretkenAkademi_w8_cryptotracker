@@ -1,0 +1,33 @@
+.container {
+  margin: auto;
+  background-color: rgb(36, 36, 36);
+  color: aliceblue;
+  border-collapse: collapse;
+}
+
+.coinImg {
+  margin: auto;
+  height: 20px;
+  width: 20px;
+}
+
+.tableItem {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.searchBar {
+  width: 210px;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+.sortImg {
+  height: 15px;
+  width: 15px;
+}
+
+.button {
+  float: right;
+}
